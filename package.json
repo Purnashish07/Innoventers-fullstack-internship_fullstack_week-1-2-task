@@ -2,9 +2,12 @@
   "name": "innoventers-internship-fullstack-week-1-2-task",
   "version": "1.0.0",
   "private": true,
+  "workspaces": [
+    "backend",
+    "frontend"
+  ],
   "scripts": {
-    "build": "cd frontend && npm install && npm run build",
-    "start": "cd backend && npm start",
-    "dev": "cd backend && npm run dev"
+    "build": "npm run build --prefix frontend",
+    "start": "npm start --prefix backend"
   }
 }
