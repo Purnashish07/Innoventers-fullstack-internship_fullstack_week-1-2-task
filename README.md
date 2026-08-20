@@ -6,12 +6,12 @@ Tech: React (Vite) + Node + Express + MongoDB + JWT + bcrypt + RBAC
 cd backend
 npm install
 .env me MONGO_URI set karo
-npm run dev -> http://localhost:5000
+npm run dev -> [http://localhost:5000](http://localhost:5000/)
 
 ### Frontend
 cd frontend
 npm install
-npm run dev -> http://localhost:5173
+npm run dev -> [http://localhost:5173](http://localhost:5173/)
 
 ## Roles
 - user: can access /dashboard
