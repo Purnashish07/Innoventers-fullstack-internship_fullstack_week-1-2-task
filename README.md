@@ -2,7 +2,7 @@
 Tech: React (Vite) + Node + Express + MongoDB + JWT + bcrypt + RBAC
 
 🚀 Live Demo
-[View Website]https://temporary-sonic-argon-47g8eg9.vercel.app/login
+[View Website]https://innoventers-internship-fullstack-we.vercel.app/login
 
 ## Roles
 - user: can access /dashboard
