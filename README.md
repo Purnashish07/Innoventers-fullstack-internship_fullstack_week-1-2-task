@@ -29,6 +29,7 @@ Deployment: Vercel
 
 ⚙️ Setup
 git clone https://github.com/Purnashish07/Innoventers-fullstack-internship_fullstack_week-1-2-task.git
+
 cd Innoventers-fullstack-internship_fullstack_week-1-2-task
 npm install
 
